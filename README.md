@@ -102,9 +102,9 @@ Movie discovery web application using TMDB API.
 
 # 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/felixnpham
 - 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: phamnhathung.dev@gmail.com
 ## 🐍 Contribution Snake
 
 <p align="center">
