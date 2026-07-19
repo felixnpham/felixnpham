@@ -80,7 +80,7 @@ Containerized e-commerce platform for pet products and dog adoption, with paymen
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/felixnpham)
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO)
+- 🌐 [Portfolio](https://felix-pham-portfolio.vercel.app/)
 - 📧 phamnhathung.dev@gmail.com
 
 ---
