@@ -52,19 +52,21 @@ Containerized e-commerce platform for pet products and dog adoption, with paymen
 
 **Tech Stack:** React • Node.js • Express.js • TypeScript • PostgreSQL • Prisma • Redis • Docker • Jest
 
-🔗 [Live Demo](https://felix-doggy.vercel.app) · [Source Code](https://github.com/HungEzz/Felix-Doggy)
+🔗 [Live Demo](https://felix-doggy.vercel.app) · [Source Code](https://github.com/felixnpham
+
+/Felix-Doggy)
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HungEzz&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungEzz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=felixnpham&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnpham&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HungEzz&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=felixnpham&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,8 +80,8 @@ Containerized e-commerce platform for pet products and dog adoption, with paymen
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/HungEzz/HungEzz/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/felixnpham/felixnpham/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 📊 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=HungEzz&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=felixnpham&theme=tokyo-night)
