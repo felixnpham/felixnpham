@@ -8,12 +8,11 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year Software Engineering Student (IUH)
-- 💻 Passionate about Full-Stack Web Development
-- 🌱 Currently learning System Design & Cloud
-- 📍 Ho Chi Minh City, Vietnam
-- 🎯 Looking for Full-Stack Developer roles
+## About Me
+
+Final-year Software Engineering student in Ho Chi Minh City, focused on full-stack
+development with React, Next.js and Node.js. Currently digging into system design
+and cloud infrastructure, and open to full-stack developer roles.
 
 ---
 
@@ -68,23 +67,7 @@ Containerized e-commerce platform for pet products and dog adoption, with paymen
 
 **Tech Stack:** React • Node.js • Express.js • TypeScript • PostgreSQL • Prisma • Redis • Docker • Jest
 
-🔗 [Live Demo](https://felix-doggy.vercel.app) · [Source Code](https://github.com/HungEzz/Felix-Doggy)
-
----
-
-### 🛒 [Tên project khác]
-<!-- TODO: điền mô tả + link thật, hoặc xoá mục này nếu không còn liên quan -->
-Complete shopping platform with authentication, payment integration and admin dashboard.
-
-🔗 [Live Demo](#) · [Source Code](#)
-
----
-
-### 🎬 Movie Trending
-<!-- TODO: điền link demo + repo thật -->
-Movie discovery web application using TMDB API.
-
-🔗 [Live Demo](#) · [Source Code](#)
+🔗 [Live Demo](https://felix-doggy.vercel.app) · [Source Code](https://github.com/felixnpham/Felix_Doggy)
 
 ---
 
@@ -103,7 +86,7 @@ Movie discovery web application using TMDB API.
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/felixnpham)
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO) <!-- TODO: điền URL portfolio thật -->
+- 🌐 [Portfolio](https://YOUR_PORTFOLIO)
 - 📧 phamnhathung.dev@gmail.com
 
 ---
