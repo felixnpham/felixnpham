@@ -72,13 +72,6 @@ Containerized e-commerce platform for pet products and dog adoption, with paymen
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=felixnpham&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/felixnpham)
 - 🌐 [Portfolio](https://felix-pham-portfolio.vercel.app/)
