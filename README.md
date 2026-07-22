@@ -10,7 +10,7 @@
 
 ## About Me
 
-Final-year Software Engineering student in Ho Chi Minh City, focused on full-stack
+Software Engineering in Ho Chi Minh City, focused on full-stack
 development with React, Next.js and Node.js. Currently digging into system design
 and cloud infrastructure, and open to full-stack developer roles.
 
