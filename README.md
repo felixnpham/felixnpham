@@ -56,6 +56,7 @@ AI-powered DeFi gateway on the U2U blockchain simplifying swaps, lending, borrow
 **Tech Stack:** Next.js • NestJS • TypeScript • Drizzle ORM • PostgreSQL • Redis • Aptos Wallet Adapter
 
 🏆 First Prize (AI Track) — VietBUIDL Hackathon 2025 (Top 12/300+ teams)
+
 🏆 Top 5 — Aptos Vietnam Hackathon 2025 (Top 5/150 teams)
 
 🔗 [Live Site](https://tasmil.finance)
